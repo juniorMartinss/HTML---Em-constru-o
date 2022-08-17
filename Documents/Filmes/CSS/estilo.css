@@ -1,0 +1,76 @@
+body{
+	background-color: #7CfC00;
+	margi: 0;
+	padding: 0;
+	margin: 10% 10% 5% 5%; /*Topo da direita para esquerda*/
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 15px;
+
+}
+
+#paginaInicial{
+	border: 2px solid #2222ff;
+	background-color: #2222aa;
+	color: #fff;
+	text-align: left;
+    
+
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+    text-align: left;
+}
+
+#nav ul li{
+	list-style: none;
+	display: inline;
+	border: 2px solid #7CfC00;
+    padding: 15px;
+    background-color: #2554ac;
+    font-weight: bold;
+	
+}
+
+h1, h4{
+    margin-left: 10px;
+    border: 2px solid black;
+    width: 95%;
+    height: 10%;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    margin-top: -5px;
+    background-color: #453abc;
+    
+
+}
+
+h4{
+    margin-top: -20px;
+}
+
+#capa{
+    width: 80%;
+    height: 100%;
+}
+
+#sobre{
+    background-color: #092431;
+    margin-top: -18px;
+    padding: 25px;
+    text-align: justify;
+    font-size: 25px;
+
+}
+
+#history{
+    background-color: darkmagenta;
+    width: 103%;
+    height: 25%;
+    vertical-align: middle;
+    text-align: center;
+    margin: -20px;
+    color: white;
+
+}
